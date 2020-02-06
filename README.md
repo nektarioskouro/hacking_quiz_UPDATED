@@ -5,13 +5,13 @@ I updated the hacking quiz and fixed some mistakes.
 
 git clone https://github.com/nektarioskouro/hacking_quiz_UPDATED.git
 
-cd hacking_quiz
+cd hacking_quiz_UPDATED
 
 g++ -o hackingquiz hackingquiz.cpp
 
 # How to run it:
 
-cd hacking_quiz
+cd hacking_quiz_UPDATED
 
 ./hackingquiz
 
@@ -23,7 +23,7 @@ pkg install clang
 
 git clone https://github.com/nektarioskouro/hacking_quiz_UPDATED.git
 
-cd hacking_quiz
+cd hacking_quiz_UPDATED
 
 chmod +x *
 
@@ -33,6 +33,6 @@ g++ -o hackingquiz hackingquiz.cpp
 
 # How to run it on Termux:
 
-cd hacking_quiz
+cd hacking_quiz_UPDATED
 
 ./hackingquiz
